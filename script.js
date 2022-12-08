@@ -1,12 +1,14 @@
 let names= [
-"larry",
-"John",
-"Jen",
-"jason",
-"paul",
-"mike",
-"Yaakov",
-"jim",
+	"Yaakov",
+	"John",
+	"Jen",
+	"jason",
+	"paul",
+	"frank",
+	"larry",
+	"paula",
+	"laura",
+	"jim",
 ]
 
 for (let i = 0; i < names.length; i++) {
